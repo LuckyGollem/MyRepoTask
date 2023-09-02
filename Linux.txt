@@ -1,0 +1,18 @@
+sudo (super user do) :
+it will run that command with elevated privileges. 
+
+pwd (print current working directory) :
+Prints the path of your current working directory.
+
+cd (change directory) :
+Used to navigate through your directory.
+cd (options) :
+1) ~[username] goes to another user’s home directory.
+2) .. moves one directory up.
+3) - moves to your previous directory.
+
+ls (list) :
+lists the files in your current directory.
+ls (options) :
+1)-a shows hidden files and visible files.
+2) -lh shows the file sizes in formats, such as MB, GB, and TB.
